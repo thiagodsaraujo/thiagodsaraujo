@@ -1,5 +1,5 @@
 <p align="right">
- <h2 align="center">Em construção</h2>
+ <h2 align="center">Olá! Eu sou o Thiago Araújo 🤘</h2>
  <p align="center"> Em construção</p>
 </p>
 
