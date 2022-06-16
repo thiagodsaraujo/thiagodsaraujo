@@ -38,8 +38,8 @@
 	
 ##
 	
-[![thiagodsaraujo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thiagodsaraujo)](https://github.com/anuraghazra/github-readme-stats)	
-
+[![thiagodsaraujo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thiagodsaraujo&layout=default)](https://github.com/anuraghazra/github-readme-stats)	
+##
 	
 ![Snake animation](https://github.com/thiagodsaraujo/thiagodsaraujo/blob/output/github-contribution-grid-snake.svg)
 	
