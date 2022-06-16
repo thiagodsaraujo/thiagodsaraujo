@@ -1,6 +1,8 @@
-<h1 align="center"
-    <p>
-Sejam bem-vindos ao meu perfil! Me chamo Thiago Araújo!👋</h1></p>
+<div align="center">
+<h2> Seja Bem vindos <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
+
+
 <p align="center">Visitantes:</p>
 <p align="center"><img align="center"src="https://profile-counter.glitch.me/thiagodsaraujo/count.svg"/></p>
 
