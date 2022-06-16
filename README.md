@@ -1,10 +1,15 @@
-<p align="right">
- <h2 align="center">Olá! Eu sou o Thiago Araújo 🤘</h2>
- <p align="center"> Em construção</p>
-</p>
+<h1 align="center"
+    <p>
+Sejam bem-vindos ao meu perfil! Me chamo Thiago Araújo!👋</h1></p>
+<p align="center">Visitantes:</p>
+<p align="center"><img align="center"src="https://profile-counter.glitch.me/thiagodsaraujo/count.svg"/></p>
 
 ##
 
+
+<p> Perfil em construção!</p>
+
+##
 
 <div>
 
@@ -27,8 +32,11 @@
 
 <div> 
 <a href="https://www.linkedin.com/in/thiago-araujo-5870a321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+	
+##
+	
 ![Snake animation](https://github.com/thiagodsaraujo/thiagodsaraujo/blob/output/github-contribution-grid-snake.svg)
+	
 </div>
 	
 ##
