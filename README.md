@@ -6,8 +6,9 @@ Sejam bem-vindos ao meu perfil! Me chamo Thiago Araújo!👋</h1></p>
 
 ##
 
-
-<p> Perfil em construção!</p>
+<div align="center">
+<h3> Perfil em construção!</h3>
+</div>
 
 ##
 
@@ -22,8 +23,7 @@ Sejam bem-vindos ao meu perfil! Me chamo Thiago Araújo!👋</h1></p>
 
 ##
 
-<div>
-<a href="https://github.com/0JUARA">
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagodsaraujo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodsaraujo&layout=compact&langs_count=7&theme=gotham"/>
 </div>
@@ -32,9 +32,10 @@ Sejam bem-vindos ao meu perfil! Me chamo Thiago Araújo!👋</h1></p>
 ##
 
 <div> 
-<a href="https://www.linkedin.com/in/thiago-araujo-5870a321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/thiago-araujo-5870a321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 	
 ##
+
 	
 ![Snake animation](https://github.com/thiagodsaraujo/thiagodsaraujo/blob/output/github-contribution-grid-snake.svg)
 	
