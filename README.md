@@ -3,9 +3,6 @@
 </div>
 
 
-<p align="center">Visitantes:</p>
-<p align="center"><img align="center"src="https://profile-counter.glitch.me/thiagodsaraujo/count.svg"/></p>
-
 ##
 
 <div align="center">
@@ -46,6 +43,9 @@
 </div>
 	
 ##
+
+<p align="center">Visitantes:</p>
+<p align="center"><img align="center"src="https://profile-counter.glitch.me/thiagodsaraujo/count.svg"/></p>
 
 <div>
 	
