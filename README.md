@@ -37,6 +37,8 @@
 <a href="https://www.linkedin.com/in/thiago-araujo-5870a321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 	
 ##
+	
+[![thiagodsaraujo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thiagodsaraujo)](https://github.com/anuraghazra/github-readme-stats)	
 
 	
 ![Snake animation](https://github.com/thiagodsaraujo/thiagodsaraujo/blob/output/github-contribution-grid-snake.svg)
