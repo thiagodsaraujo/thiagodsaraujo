@@ -1,12 +1,14 @@
 <div align="center">
-<h2> Seja Bem vindos <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+<h1> Seja Bem vindos <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
+<div></div>
 </div>
 
 
 <div align="center">
-<h3> Discente do 3º Período de Sistemas da Informação</h3>
-<h2> Atualmente estudando JavaScript + React</h2>
-<h2> </h2>
+<h2>Discente do 3º Período de Sistemas da Informação</h2>
+<div></div>
+<h3>Atualmente estudando JavaScript + React</h3>
+<div></div>
 </div>
 
 <div>
