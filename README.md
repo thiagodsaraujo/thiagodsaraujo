@@ -7,7 +7,7 @@
 <div align="center">
 <h2>Discente do 3º Período de Sistemas da Informação</h2>
 <div></div>
-<h3>Atualmente estudando JavaScript + React</h3>
+<h3>Atualmente estudando SpringBoot</h3>
 <div></div>
 </div>
 
