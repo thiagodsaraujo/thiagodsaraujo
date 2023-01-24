@@ -28,6 +28,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodsaraujo&layout=compact&theme=dark&show_icons=true"/>
 </div>
 
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ##
 
