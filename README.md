@@ -30,6 +30,20 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+
+```text
+From: 10 April 2022 - To: 24 January 2023
+
+Total Time: 255 hrs
+
+Java                  170 hrs 34 mins >>>>>>>>>>>>>>>>>--------   66.89 %
+HTML                  37 hrs 27 mins  >>>>---------------------   14.69 %
+CSS                   15 hrs 23 mins  >>-----------------------   06.04 %
+Properties            11 hrs 12 mins  >------------------------   04.40 %
+XML                   6 hrs 22 mins   >------------------------   02.50 %
+SQL                   4 hrs 7 mins    -------------------------   01.62 %
+```
+
 <!--END_SECTION:waka-->
 
 ##
