@@ -34,15 +34,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2022 - To: 15 July 2023
+From: 10 April 2022 - To: 16 July 2023
 
-Total Time: 368 hrs 48 mins
+Total Time: 371 hrs 18 mins
 
-Java                  225 hrs 6 mins  >>>>>>>>>>>>>>>----------   61.03 %
-HTML                  74 hrs 16 mins  >>>>>--------------------   20.14 %
-CSS                   16 hrs 25 mins  >------------------------   04.45 %
-Properties            12 hrs 3 mins   >------------------------   03.27 %
-Python                9 hrs 21 mins   >------------------------   02.54 %
+Java                  226 hrs 21 mins >>>>>>>>>>>>>>>----------   60.96 %
+HTML                  75 hrs 27 mins  >>>>>--------------------   20.32 %
+CSS                   16 hrs 25 mins  >------------------------   04.42 %
+Properties            12 hrs 4 mins   >------------------------   03.25 %
+Python                9 hrs 21 mins   >------------------------   02.52 %
 ```
 
 <!--END_SECTION:waka-->
