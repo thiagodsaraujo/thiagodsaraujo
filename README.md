@@ -6,9 +6,6 @@
 
 <div align="center">
 <h2>Dev Java</h2>
-<div></div>
-<h3>Atualmente estudando SpringBoot</h3>
-<div></div>
 </div>
 
 <div>
