@@ -23,6 +23,12 @@
 </div>
 
 ##
+<h2>Certifications</h2>
+
+<div><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7c80cae1-84de-4f8d-9c3a-c40c1cbd3537" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></div>
+
+
+##
 
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodsaraujo&layout=compact&theme=dark&show_icons=true"/>
