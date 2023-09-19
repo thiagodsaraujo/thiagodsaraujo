@@ -25,6 +25,7 @@
 ##
 <h2>Certifications</h2>
 
+![alt text](https://github.com/thiagodsaraujo/thiagodsaraujo/blob/main/aws-certified-cloud-practitioner%20(1).png)
 
 https://www.credly.com/badges/7c80cae1-84de-4f8d-9c3a-c40c1cbd3537/public_url
 
