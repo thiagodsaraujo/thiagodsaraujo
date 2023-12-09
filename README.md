@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<h2>Dev Java</h2>
+<h2>Backend Developer</h2>
 	<h3>https://ojuara.com</h3>
 </div>
 
