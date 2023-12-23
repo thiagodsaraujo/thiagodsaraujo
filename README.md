@@ -39,15 +39,15 @@ https://www.credly.com/badges/7c80cae1-84de-4f8d-9c3a-c40c1cbd3537/public_url
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2022 - To: 20 December 2023
+From: 10 April 2022 - To: 21 December 2023
 
-Total Time: 516 hrs 22 mins
+Total Time: 517 hrs 4 mins
 
-Java                  305 hrs 10 mins >>>>>>>>>>>>>>>----------   59.10 %
-HTML                  129 hrs 42 mins >>>>>>-------------------   25.12 %
+Java                  305 hrs 52 mins >>>>>>>>>>>>>>>----------   59.16 %
+HTML                  129 hrs 42 mins >>>>>>-------------------   25.09 %
 CSS                   17 hrs 43 mins  >------------------------   03.43 %
-Python                11 hrs 33 mins  >------------------------   02.24 %
-Properties            11 hrs 26 mins  >------------------------   02.22 %
+Python                11 hrs 33 mins  >------------------------   02.23 %
+Properties            11 hrs 26 mins  >------------------------   02.21 %
 ```
 
 <!--END_SECTION:waka-->
