@@ -39,7 +39,7 @@ https://www.credly.com/badges/7c80cae1-84de-4f8d-9c3a-c40c1cbd3537/public_url
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2022 - To: 30 December 2023
+From: 10 April 2022 - To: 31 December 2023
 
 Total Time: 529 hrs 14 mins
 
