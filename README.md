@@ -60,7 +60,9 @@ Properties            12 hrs 3 mins   >------------------------   02.20 %
 ##
 	
 	
-![Snake animation](https://github.com/thiagodsaraujo/thiagodsaraujo/blob/output/github-contribution-grid-snake.svg)
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            
 	
 </div>
 	
