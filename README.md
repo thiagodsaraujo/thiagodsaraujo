@@ -39,7 +39,7 @@ https://www.credly.com/badges/7c80cae1-84de-4f8d-9c3a-c40c1cbd3537/public_url
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2022 - To: 07 April 2025
+From: 10 April 2022 - To: 08 April 2025
 
 Total Time: 642 hrs 50 mins
 
