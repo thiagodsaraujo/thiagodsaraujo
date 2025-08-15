@@ -6,7 +6,7 @@
 
 <div align="center">
 <h2>Backend Developer</h2>
-	<h3>https://ojuara.com</h3>
+	<h3>https:portfoilio.ojuara.com</h3>
 </div>
 
 <div>
